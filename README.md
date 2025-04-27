@@ -6,6 +6,9 @@ This repo contains documentation, firmware, schematics (TBD), and PCB designs (T
 
 ---
 
+![all](https://github.com/user-attachments/assets/c83fe18a-3574-4c52-a8cf-a07c61d6901f)
+
+
 ## 🔧 Tools Included
 
 ### 1. FreqFucker Ultra  
@@ -99,45 +102,6 @@ This repo contains documentation, firmware, schematics (TBD), and PCB designs (T
 
 **Docs:** [RF Fucker](./RF-Fucker/README.md)
 
----
-
-## 📁 Repo Structure
-```
-The-Wireless-Wrecking-Crew/
-├── FreqFucker-Ultra/
-│   ├── firmware/
-│   ├── docs/
-│   ├── schematics/  (TBD)
-│   └── pcb-design/  (TBD)
-├── BLE-StealthFucker/
-│   ├── firmware/
-│   ├── docs/
-│   ├── schematics/  (TBD)
-│   └── pcb-design/  (TBD)
-├── Spectrum-Slayer/
-│   ├── firmware/
-│   ├── docs/
-│   ├── schematics/  (TBD)
-│   └── pcb-design/  (TBD)
-├── BlitzFucker/
-│   ├── firmware/
-│   ├── docs/
-│   ├── schematics/  (TBD)
-│   └── pcb-design/  (TBD)
-├── Chaos-Injector/
-│   ├── firmware/
-│   ├── docs/
-│   ├── schematics/  (TBD)
-│   └── pcb-design/  (TBD)
-└── RF-Fucker/
-│   ├── firmware/
-│   ├── docs/
-│   ├── schematics/  (TBD)
-│   └── pcb-design/  (TBD)
-
-```
-
----
 
 ## 📜 License
 This project is open-source for educational, red teaming, and research purposes. Any misuse or malicious deployment is strictly discouraged.
@@ -145,8 +109,7 @@ This project is open-source for educational, red teaming, and research purposes.
 ## 🙏 Credits
 Thanks to all the upstream projects and original authors this crew is forked and inspired from.
 
-## 📬 Contact
-Built by Rahul Thareja aka C1PH3R-FSocitey – For inquiries, demos, or collaborations: rahulthareja@outlook.com
----
+## 📬 Author
+Built by Rahul Thareja aka C1PH3R-FSocitey 
 
 > _Real tools. Real chaos. The Wireless Wrecking Crew._
