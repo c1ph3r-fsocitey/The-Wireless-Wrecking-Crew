@@ -53,15 +53,13 @@ Chaos Injector is ideal for red teamers, penetration testers, and security resea
 - **Power**: Rechargeable LiPo battery, capable of several hours of continuous operation
 - **Payload Compatibility**: Supports various BadUSB payloads and custom scripts
 
-## Schematic & PCB Design
-*Please add schematics and PCB designs here.*
-
-## Documentation & Setup
-*Note: Setup and installation details are excluded from this repository. Please contact us for purchasing and device support.*
-
 ## Device Demo
-To see Chaos Injector in action, check out the demo video linked here:
-- [Demo Video Link]()
+To see Chaos Injector in action, check out the demo video here:
+
+
+https://github.com/user-attachments/assets/f2e274e5-2380-454b-b07a-20636a3d2436
+
+
 
 ## Important Notes
 - **Legal Disclaimer**: Unauthorized use of hacking devices may violate local laws and regulations. Ensure that the device is used in a legal and ethical manner.
