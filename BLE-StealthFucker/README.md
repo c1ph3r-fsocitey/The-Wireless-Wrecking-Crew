@@ -39,15 +39,8 @@ This tool is perfect for red teamers, penetration testers, and hobbyists who nee
 - **Connectivity**: Bluetooth Low Energy (BLE)
 - **Power**: USB rechargeable, portable
 
-## Schematic & PCB Design
-*Please add schematics and PCB designs here.*
+![image](https://github.com/user-attachments/assets/e6d3e735-c28a-4783-b031-cad752521100)
 
-## Documentation & Setup
-*Note: Setup and installation details are excluded from this repository. Please contact us for purchasing and device support.*
-
-## Device Demo
-To see BLE StealthFucker in action, check out the demo video linked here:
-- [Demo Video Link]()
 
 ## Tools
 - **Firmware**: Open-source, available for modification and use.
