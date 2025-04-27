@@ -59,15 +59,11 @@ RF Fucker is intended for security researchers, penetration testers, and anyone 
 - **Power**: Rechargeable battery with long operational life.
 - **Storage**: Internal memory for storing captured signals and configurations.
 
-## Schematic & PCB Design
-*Please add schematics and PCB designs here.*
-
-## Documentation & Setup
-*Note: Setup and installation details are excluded from this repository. Please contact us for purchasing and device support.*
-
 ## Device Demo
-To see RF Fucker in action, check out the demo video linked here:
-- [Demo Video Link]()
+To see RF Fucker in action, check out the demo video here:
+
+https://github.com/user-attachments/assets/57ee9ee2-86d2-42b8-b3ef-ef6596b6a682
+
 
 ## Important Notes
 - **Legal Disclaimer**: Unauthorized use of hacking devices may violate local laws and regulations. Ensure that the device is used in a legal and ethical manner.
