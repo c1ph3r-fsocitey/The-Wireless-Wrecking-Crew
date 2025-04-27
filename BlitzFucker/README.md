@@ -50,15 +50,8 @@ BlitzFucker is designed for advanced wireless security testing and network analy
 - **Power**: USB rechargeable or portable power source
 - **Firmware**: Customizable and open-source for advanced users
 
-## Schematic & PCB Design
-*Please add schematics and PCB designs here.*
-
-## Documentation & Setup
-*Note: Setup and installation details are excluded from this repository. Please contact us for purchasing and device support.*
-
-## Device Demo
-To see BlitzFucker in action, check out the demo video linked here:
-- [Demo Video Link]()
+## PCB Design
+![image](https://github.com/user-attachments/assets/64f49c09-654a-4334-b870-f6dd8785165b)
 
 ## Tools
 - **WiFi Packet Sniffer**: Capture and analyze WiFi traffic.
