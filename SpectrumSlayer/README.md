@@ -35,20 +35,15 @@ Spectrum Slayer is designed for use by professionals in the field of wireless se
 - **Red Teaming**: Use as part of an offensive security testing routine to assess potential attack vectors against 5GHz Wi-Fi systems.
 
 ## Technical Details
-- **Core Module**: ESP32 Wroom32
+- **Core Module**: AI Thinker BW16
 - **Connectivity**: 5GHz Wi-Fi
 - **Power**: USB rechargeable or portable power source
 - **Firmware**: Open-source and customizable
 
-## Schematic & PCB Design
-*Please add schematics and PCB designs here.*
-
-## Documentation & Setup
-*Note: Setup and installation details are excluded from this repository. Please contact us for purchasing and device support.*
-
 ## Device Demo
-To see Spectrum Slayer in action, check out the demo video linked here:
-- [Demo Video Link]()
+To see Spectrum Slayer in action, check out the demo video here:
+
+https://github.com/user-attachments/assets/03239e34-bd9f-496d-bbc2-d7705099ba4f
 
 ## Tools
 - **Firmware**: Open-source, customizable firmware for advanced use cases.
