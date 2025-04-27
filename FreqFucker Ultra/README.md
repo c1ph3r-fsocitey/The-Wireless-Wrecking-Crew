@@ -44,15 +44,9 @@ This tool is ideal for cybersecurity professionals, penetration testers, and hob
 - **Connectivity**: Bluetooth Low Energy (BLE)
 - **Power**: USB rechargeable, portable
 
-## Schematic & PCB Design
-*Please add schematics and PCB designs here.*
+![FreqFuckerUltra1](https://github.com/user-attachments/assets/38b72dc7-2325-4fea-8b17-83f49001c93e)
+![FreqFuckerUltra](https://github.com/user-attachments/assets/45907767-439f-48d7-a2f6-4b645498dbe0)
 
-## Documentation & Setup
-*Note: Setup and installation details are excluded from this repository. Please contact us for purchasing and device support.*
-
-## Device Demo
-To see FreqFucker Ultra in action, check out the demo video linked here:
-- [Demo Video Link]()
 
 ## Tools
 - **Firmware**: Open-source, available for modification and use.
