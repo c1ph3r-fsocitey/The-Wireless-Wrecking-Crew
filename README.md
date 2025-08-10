@@ -20,6 +20,7 @@ This repo contains documentation, firmware, schematics (TBD), and PCB designs (T
 - BLE Spoofer
 - Sour Apple Attacks
 - Signal Analysis
+- Forked From: [nRF Box](https://github.com/cifertech/nRFBox)
 
 **Specs:**
 - ESP32-WROOM-32
